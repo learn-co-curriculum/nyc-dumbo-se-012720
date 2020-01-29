@@ -10,9 +10,13 @@
 | -----            | ----                | -----                |
 | Hashketball Review | [Code][hashketball-code] | [Video][hashketball-video] |
 | Object Relationships — One to Many | [Code][object-relationships-one-many-code] | [Video][object-relationships-one-many-video] |
+| Intro to Object-Oriented Programming | [Code][intro-object-oriented-programming-code] | [Video][intro-object-oriented-programming-video] |
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
 [hashketball-video]: http://youtu.be/aI6hJ5XQo1U
 
 [object-relationships-one-many-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/03-one-to-many/
 [object-relationships-one-many-video]: http://youtu.be/7NtpXGzwri8
+
+[intro-object-oriented-programming-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/02-oo/
+[intro-object-oriented-programming-video]: http://youtu.be/oMOFC8kYet0
