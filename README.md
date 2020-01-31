@@ -11,6 +11,7 @@
 | Hashketball Review | [Code][hashketball-code] | [Video][hashketball-video] |
 | Object Relationships — One to Many | [Code][object-relationships-one-many-code] | [Video][object-relationships-one-many-video] |
 | Intro to Object-Oriented Programming | [Code][intro-object-oriented-programming-code] | [Video][intro-object-oriented-programming-video] |
+| Inheritance | [Code][inheritance-code] | [Video][inheritance-video] |
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
 [hashketball-video]: http://youtu.be/aI6hJ5XQo1U
@@ -20,3 +21,6 @@
 
 [intro-object-oriented-programming-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/02-oo/
 [intro-object-oriented-programming-video]: http://youtu.be/oMOFC8kYet0
+
+[inheritance-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/04-many-to-many/
+[inheritance-video]: http://youtu.be/HDJP7-9sr5Y
