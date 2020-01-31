@@ -9,8 +9,8 @@
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
 | Hashketball Review | [Code][hashketball-code] | [Video][hashketball-video] |
-| Object Relationships — One to Many | [Code][object-relationships-one-many-code] | [Video][object-relationships-one-many-video] |
 | Intro to Object-Oriented Programming | [Code][intro-object-oriented-programming-code] | [Video][intro-object-oriented-programming-video] |
+| Object Relationships — One to Many | [Code][object-relationships-one-many-code] | [Video][object-relationships-one-many-video] |
 | Many to Many | [Code][many-to-many-code] | [Video][many-to-many-video] |
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
