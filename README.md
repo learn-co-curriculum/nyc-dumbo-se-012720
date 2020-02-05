@@ -12,6 +12,7 @@
 | Intro to Object-Oriented Programming | [Code][intro-object-oriented-programming-code] | [Video][intro-object-oriented-programming-video] |
 | Object Relationships — One to Many | [Code][object-relationships-one-many-code] | [Video][object-relationships-one-many-video] |
 | Many to Many | [Code][many-to-many-code] | [Video][many-to-many-video] |
+| Intro to SQL and ORMs | [Code][intro-sql-orms-code] | [Video][intro-sql-orms-video] |
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
 [hashketball-video]: http://youtu.be/aI6hJ5XQo1U
@@ -24,3 +25,6 @@
 
 [many-to-many-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/04-many-to-many/
 [many-to-many-video]: http://youtu.be/HDJP7-9sr5Y
+
+[intro-sql-orms-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/05-sql/
+[intro-sql-orms-video]: http://youtu.be/8GGbeM87A1s
