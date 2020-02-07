@@ -13,6 +13,7 @@
 | Object Relationships — One to Many | [Code][object-relationships-one-many-code] | [Video][object-relationships-one-many-video] |
 | Many to Many | [Code][many-to-many-code] | [Video][many-to-many-video] |
 | Intro to SQL and ORMs | [Code][intro-sql-orms-code] | [Video][intro-sql-orms-video] |
+| Active Record Associations | [Code][active-record-associations-code] | [Video][active-record-associations-video] |
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
 [hashketball-video]: http://youtu.be/aI6hJ5XQo1U
@@ -28,3 +29,6 @@
 
 [intro-sql-orms-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/05-sql/
 [intro-sql-orms-video]: http://youtu.be/8GGbeM87A1s
+
+[active-record-associations-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/07-active-record-associations
+[active-record-associations-video]: https://youtu.be/IAsPiyfb7yw
