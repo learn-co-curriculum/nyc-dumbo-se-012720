@@ -14,6 +14,7 @@
 | Many to Many | [Code][many-to-many-code] | [Video][many-to-many-video] |
 | Intro to SQL and ORMs | [Code][intro-sql-orms-code] | [Video][intro-sql-orms-video] |
 | Active Record Associations | [Code][active-record-associations-code] | [Video][active-record-associations-video] |
+| Hashes and the Internet | [Code][hashes-internet-code] | [Video][hashes-internet-video] |
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
 [hashketball-video]: http://youtu.be/aI6hJ5XQo1U
@@ -32,3 +33,6 @@
 
 [active-record-associations-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/07-active-record-associations
 [active-record-associations-video]: https://youtu.be/IAsPiyfb7yw
+
+[hashes-internet-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/08-hashes-internet/
+[hashes-internet-video]: http://youtu.be/-2ixdqxdbzY
