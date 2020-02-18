@@ -15,6 +15,7 @@
 | Intro to SQL and ORMs | [Code][intro-sql-orms-code] | [Video][intro-sql-orms-video] |
 | Active Record Associations | [Code][active-record-associations-code] | [Video][active-record-associations-video] |
 | Hashes and the Internet | [Code][hashes-internet-code] | [Video][hashes-internet-video] |
+| Intro to Sinatra and MVP | [Code][intro-to-sinatra-&-mvc-code] | [Video][intro-to-sinatra-&-mvc-video] |
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
 [hashketball-video]: http://youtu.be/aI6hJ5XQo1U
@@ -36,3 +37,6 @@
 
 [hashes-internet-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/08-hashes-internet/
 [hashes-internet-video]: http://youtu.be/-2ixdqxdbzY
+
+[intro-to-sinatra-&-mvc-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/09-intro-to-sinatra-and-mvc
+[intro-to-sinatra-&-mvc-video]: https://youtu.be/IqKX4ob-Ekk
