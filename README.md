@@ -48,3 +48,15 @@
 
 [intro-to-sinatra-&-mvc-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/09-intro-to-sinatra-and-mvc
 [intro-to-sinatra-&-mvc-video]: https://youtu.be/IqKX4ob-Ekk
+
+
+| **Date**      | **Blog Presenters**                                                                                                 |
+|-------    |-----------------------------------------------------------------------------------------------------------------------    
+|2/25   |Abid Talukdar, Antonio Blandin, Firuz Afzalov
+|2/27   |Gurjot Sidhu, Jemy Chen, Jeremy Perry
+|3/03   |Ken Ho, Mavi Toktamis-Paker, Panagiotis Ntagkins
+|3/05   |Phillip Henry, Thomas Cantwell, Wesley Perez
+|3/12    |Abid Talukdar, Antonio Blandin, Firuz Afzalov
+|3/16   |Gurjot Sidhu, Jemy Chen, Jeremy Perry
+|3/23   |Ken Ho, Mavi Toktamis-Paker, Panagiotis Ntagkins
+|3/25   |Phillip Henry, Thomas Cantwell, Wesley Perez
