@@ -50,7 +50,7 @@
 [intro-to-sinatra-&-mvc-video]: https://youtu.be/IqKX4ob-Ekk
 
 
-Blog Schedule
+## Blog Schedule
 
 Be sure to publish all your blogs on Medium and slack the link to your post to a SEC before your presentation. We make the blog schedule available here on your Learn.co dashboard so that you may plan ahead. After every blog presentation your SEC will PM you in slack with both positive and constructive feedback to give you the opportunity to sharpen your presentation and idea sharing skills throughout the program. Remember, blog presentations should be no longer than 5 mins --- after which, we allow 2 mins for for questions.
 
