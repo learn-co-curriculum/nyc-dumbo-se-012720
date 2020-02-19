@@ -16,6 +16,7 @@
 | Active Record Associations | [Code][active-record-associations-code] | [Video][active-record-associations-video] |
 | Hashes and the Internet | [Code][hashes-internet-code] | [Video][hashes-internet-video] |
 | Intro to Sinatra and MVC | [Code][intro-to-sinatra-&-mvc-code] | [Video][intro-to-sinatra-&-mvc-video] |
+| Sinatra CRUD Part 2 | [Code][sinatra-crud-part-2-code] | [Video][sinatra-crud-part-2-video] |
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
 [hashketball-video]: http://youtu.be/aI6hJ5XQo1U
@@ -37,6 +38,9 @@
 
 [hashes-internet-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/08-hashes-internet/
 [hashes-internet-video]: http://youtu.be/-2ixdqxdbzY
+
+[sinatra-crud-part-2-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/11-rest/
+[sinatra-crud-part-2-video]: http://youtu.be/dQsKAAf_mLA
 
 [intro-to-sinatra-&-mvc-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/09-intro-to-sinatra-and-mvc
 [intro-to-sinatra-&-mvc-video]: https://youtu.be/IqKX4ob-Ekk
