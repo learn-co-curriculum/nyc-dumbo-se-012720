@@ -18,6 +18,7 @@
 | Intro to Sinatra and MVC | [Code][intro-to-sinatra-&-mvc-code] | [Video][intro-to-sinatra-&-mvc-video] |
 | Sinatra CRUD Part 2 | [Code][sinatra-crud-part-2-code] | [Video][sinatra-crud-part-2-video] |
 | Intro to the Internet | [Code][intro-internet-code] | [Video][intro-internet-video] |
+| Sinatra Associations | [Code][sinatra-associations-code] | [Video][sinatra-associations-video] |
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
 [hashketball-video]: http://youtu.be/aI6hJ5XQo1U
@@ -45,6 +46,9 @@
 
 [intro-internet-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/08.5-rack-internet/
 [intro-internet-video]: http://youtu.be/BqUvGBTWZjg
+
+[sinatra-associations-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/11-rest/
+[sinatra-associations-video]: http://youtu.be/d0S5IeHQ7wY
 
 [intro-to-sinatra-&-mvc-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/09-intro-to-sinatra-and-mvc
 [intro-to-sinatra-&-mvc-video]: https://youtu.be/IqKX4ob-Ekk
