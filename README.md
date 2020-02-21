@@ -19,6 +19,7 @@
 | Sinatra CRUD Part 2 | [Code][sinatra-crud-part-2-code] | [Video][sinatra-crud-part-2-video] |
 | Intro to the Internet | [Code][intro-internet-code] | [Video][intro-internet-video] |
 | Sinatra Associations | [Code][sinatra-associations-code] | [Video][sinatra-associations-video] |
+| Many to Many Associations | [Code][mtm-associations-code] | [Video][mtm-associations-video] |
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
 [hashketball-video]: http://youtu.be/aI6hJ5XQo1U
@@ -53,6 +54,11 @@
 [intro-to-sinatra-&-mvc-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/09-intro-to-sinatra-and-mvc
 [intro-to-sinatra-&-mvc-video]: https://youtu.be/IqKX4ob-Ekk
 
+[mtm-associations-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/11.5-many-to-many
+[mtm-associations-video]: https://youtu.be/Or00T-aDSwM
+
+
+https://youtu.be/Or00T-aDSwM
 
 ## Blog Schedule
 
