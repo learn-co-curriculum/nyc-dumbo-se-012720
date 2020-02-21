@@ -20,6 +20,7 @@
 | Intro to the Internet | [Code][intro-internet-code] | [Video][intro-internet-video] |
 | Sinatra Associations | [Code][sinatra-associations-code] | [Video][sinatra-associations-video] |
 | Many to Many Associations | [Code][mtm-associations-code] | [Video][mtm-associations-video] |
+| Intro to Rails] | [Code][intro-to-rails-code]| [Video 1][itr-vid-1] [Video 2][itr-vid-2] [Video 3][itr-vid-3] |
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
 [hashketball-video]: http://youtu.be/aI6hJ5XQo1U
@@ -56,6 +57,11 @@
 
 [mtm-associations-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/11.5-many-to-many
 [mtm-associations-video]: https://youtu.be/Or00T-aDSwM
+
+[intro-to-rails-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/12-intro-to-rails
+[itr-vid-1]: https://www.youtube.com/watch?v=Yeu945utjqE
+[itr-vid-2]: https://youtu.be/TJXO2FhyqyA
+[itr-vid-3]: https://www.youtube.com/watch?v=6hDxNp3M7xI
 
 
 ## Blog Schedule
