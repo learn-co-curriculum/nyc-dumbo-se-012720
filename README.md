@@ -23,6 +23,7 @@
 | Intro to Rails | [Code][intro-to-rails-code]| [Video 1][itr-vid-1] [Video 2][itr-vid-2] [Video 3][itr-vid-3] |
 | Rails forms | [Code][rails-forms-code] | [Video][rails-forms-video] |
 | Rails Associations | [Code][rails-associations-code] | [Video][rails-associations-video] |
+| Associations part 1 | [Code][associations-part-1-code] | [Video][associations-part-1-video] |
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
 [hashketball-video]: http://youtu.be/aI6hJ5XQo1U
@@ -56,6 +57,9 @@
 
 [rails-associations-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/13-rails-forms/
 [rails-associations-video]: http://youtu.be/YuqlMtO_pAU
+
+[associations-part-1-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/14-rails-associations/
+[associations-part-1-video]: http://youtu.be/QIsX2qeFRqU
 
 [intro-to-sinatra-&-mvc-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/09-intro-to-sinatra-and-mvc
 [intro-to-sinatra-&-mvc-video]: https://youtu.be/IqKX4ob-Ekk
