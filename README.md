@@ -25,6 +25,7 @@
 | Rails Associations | [Code][rails-associations-code] | [Video][rails-associations-video] |
 | Associations part 1 | [Code][associations-part-1-code] | [Video][associations-part-1-video] |
 | Rails Validations | [Code][rails-validations-code] | [Video][rails-validations-video] |
+| Rails Review | [Code][rails-review-code] | [Video][rails-review-video]|
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
 [hashketball-video]: http://youtu.be/aI6hJ5XQo1U
@@ -78,6 +79,9 @@
 
 [rails-forms-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/13-rails-forms
 [rails-forms-video]: https://youtu.be/lRbdeAIj5S0
+
+[rails-review-code]: https://github.com/NickyEXE/FlunchironSchool/tree/class
+[rails-review-video]: https://youtu.be/af-EKivcu6A
 
 
 ## Blog Schedule
