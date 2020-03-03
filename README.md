@@ -27,6 +27,7 @@
 | Rails Validations | [Code][rails-validations-code] | [Video][rails-validations-video] |
 | Rails Review | [Code][rails-review-code] | [Video][rails-review-video]|
 | Sessions, Cookies, & Flash | [Code][sessions-cookies-flash-code] | [Video][sessions-cookies-flash-video] |
+| Authentication | [Code][authentication-code] | [Video][authentication-video] |
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
 [hashketball-video]: http://youtu.be/aI6hJ5XQo1U
@@ -67,7 +68,10 @@
 [rails-validations-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/15-rails-validations/
 [rails-validations-video]: http://youtu.be/T5T7mHhnq9o
 
-[sessions-cookies-flash-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720?sorry=could+not+automatically+find+code&contact=graham&for=help&also=https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[sessions-cookies-flash-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720?sorry=could
+
+[authentication-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/16-auth/
+[authentication-video]: http://youtu.be/xHOZSroejRs+not+automatically+find+code&contact=graham&for=help&also=https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [sessions-cookies-flash-video]: http://youtu.be/tTVZzHvD2vQ
 
 [intro-to-sinatra-&-mvc-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/09-intro-to-sinatra-and-mvc
