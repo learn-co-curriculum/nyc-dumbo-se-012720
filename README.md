@@ -6,6 +6,7 @@
 
 ## Lecture code and videos
 
+### Mod 1
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
 | Hashketball Review | [Code][hashketball-code] | [Video][hashketball-video] |
@@ -15,6 +16,11 @@
 | Intro to SQL and ORMs | [Code][intro-sql-orms-code] | [Video][intro-sql-orms-video] |
 | Active Record Associations | [Code][active-record-associations-code] | [Video][active-record-associations-video] |
 | Hashes and the Internet | [Code][hashes-internet-code] | [Video][hashes-internet-video] |
+
+
+### Mod 2
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
 | Intro to Sinatra and MVC | [Code][intro-to-sinatra-&-mvc-code] | [Video][intro-to-sinatra-&-mvc-video] |
 | Sinatra CRUD Part 2 | [Code][sinatra-crud-part-2-code] | [Video][sinatra-crud-part-2-video] |
 | Intro to the Internet | [Code][intro-internet-code] | [Video][intro-internet-video] |
@@ -29,6 +35,13 @@
 | Sessions, Cookies, & Flash | [Code][sessions-cookies-flash-code] | [Video][sessions-cookies-flash-video] |
 | Authentication | [Code][authentication-code] | [Video][authentication-video] |
 | Authorization | [Code][authorization-code] | [Video][authorization-video] |
+
+
+### Mod 3
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
+| Intro to JS | [Code][https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/17-intro-to-js] | [Video][https://youtu.be/6FlL1ugoAh4] |
+
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
 [hashketball-video]: http://youtu.be/aI6hJ5XQo1U
