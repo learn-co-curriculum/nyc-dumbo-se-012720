@@ -42,6 +42,8 @@
 | -----            | ----                | -----                |
 | Intro to JS | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/17-intro-to-js) | [Video](https://youtu.be/6FlL1ugoAh4) |
 | First Class Functions | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/18-first-class-functions) | [Video](https://youtu.be/BHVtZjR2Q-E) |
+| DOM Manipulation | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/19-dom-manipulation) | [Video](https://youtu.be/6w-zLyE4oYU) |
+
 
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
