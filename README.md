@@ -44,7 +44,7 @@
 | First Class Functions | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/18-first-class-functions) | [Video](https://youtu.be/BHVtZjR2Q-E) |
 | DOM Manipulation | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/19-dom-manipulation) | [Video](https://youtu.be/6w-zLyE4oYU) |
 | Event Handling | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/20-event-handling) | [Lecture](https://www.youtube.com/watch?v=6Y72fJcSgdk) / [Review](https://youtu.be/KujvaoHtde8) |
-| Event Handling | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/21-event-delegation) | [Video](https://youtu.be/NvUMtOh6f7M) |
+| Event Delegation | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/21-event-delegation) | [Video](https://youtu.be/NvUMtOh6f7M) |
 
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
