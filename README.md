@@ -46,7 +46,7 @@
 | Event Handling | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/20-event-handling) | [Lecture](https://www.youtube.com/watch?v=6Y72fJcSgdk) / [Review](https://youtu.be/KujvaoHtde8) |
 | Event Delegation | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/21-event-delegation) | [Video](https://youtu.be/NvUMtOh6f7M) |
 | Pokemon Review | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/22-pokemon-review) | [Video](https://youtu.be/Of9C0Py2CCg) |
-| Async JS and Fetch | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/23-async-js-and-fetch) | Zoom Video to come / [Old Video](https://www.youtube.com/watch?v=ItmS8woRLBY) |
+| Async JS and Fetch | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/23-async-js-and-fetch) | [Zoom Video part 1](https://youtu.be/j42mfldGFHg) / [Old Mod's Video](https://www.youtube.com/watch?v=ItmS8woRLBY) |
 
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
