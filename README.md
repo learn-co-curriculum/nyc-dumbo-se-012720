@@ -47,7 +47,7 @@
 | Event Delegation | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/21-event-delegation) | [Video](https://youtu.be/NvUMtOh6f7M) |
 | Pokemon Review | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/22-pokemon-review) | [Video](https://youtu.be/Of9C0Py2CCg) |
 | Async JS and Fetch | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/23-async-js-and-fetch) | [Zoom Video part 1](https://youtu.be/j42mfldGFHg) / [Old Video](https://www.youtube.com/watch?v=ItmS8woRLBY) |
-| Rails as an API | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/24-rails-as-an-api) | Zoom recording to come / [Old Video](https://www.youtube.com/watch?v=e4K-p8kivIU) |
+| Rails as an API | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/24-rails-as-an-api) | [Video](https://youtu.be/eWHsbilI198) |
 
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
