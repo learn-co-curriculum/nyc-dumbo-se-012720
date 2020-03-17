@@ -48,6 +48,7 @@
 | Pokemon Review | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/22-pokemon-review) | [Video](https://youtu.be/Of9C0Py2CCg) |
 | Async JS and Fetch | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/23-async-js-and-fetch) | [Zoom Video part 1](https://youtu.be/j42mfldGFHg) / [Old Video](https://www.youtube.com/watch?v=ItmS8woRLBY) |
 | Rails as an API | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/24-rails-as-an-api) | [Video](https://youtu.be/eWHsbilI198) |
+| Toy Tales Review | [Code][toy-tales-review-code], [Code with Adapter][toy-tales-with-adapter] |
 
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
@@ -114,6 +115,9 @@
 
 [rails-review-code]: https://github.com/NickyEXE/FlunchironSchool/tree/class
 [rails-review-video]: https://youtu.be/af-EKivcu6A
+
+[toy-tales-review-code]: https://github.com/NickyEXE/jsdom-toy-tale-dumbo-web-100719/tree/031620-lecture
+[toy-tales-with-adapter]: https://github.com/NickyEXE/jsdom-toy-tale-dumbo-web-100719/tree/test-solution-012720
 
 
 ## Blog Schedule
