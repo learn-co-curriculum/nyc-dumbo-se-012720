@@ -48,7 +48,8 @@
 | Pokemon Review | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/22-pokemon-review) | [Video](https://youtu.be/Of9C0Py2CCg) |
 | Async JS and Fetch | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/23-async-js-and-fetch) | [Zoom Video part 1](https://youtu.be/j42mfldGFHg) / [Old Video](https://www.youtube.com/watch?v=ItmS8woRLBY) |
 | Rails as an API | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/24-rails-as-an-api) | [Video](https://youtu.be/eWHsbilI198) |
-| Toy Tales Review | [Code][toy-tales-review-code], [Code with Adapter][toy-tales-with-adapter] |
+| Toy Tales Review | [Code][toy-tales-review-code], [Code with Adapter][toy-tales-with-adapter] | [Video](https://wework.zoom.com/rec/share/x8hlILPd1jpIa6-Qs2_QVqorBd7qaaa82icZ_vUIzhoFmqpLDeIpmzXcsOdHIKbj) |
+| Debugging Workshop | [Code]() | [Video](https://wework.zoom.com/rec/share/w5Urdbr35DxOGtLXw1jaY48sPpz3X6a8g3Ia_PJZnxsoFOWQ4-_Ag8XfS4hjPb3S) |
 
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
