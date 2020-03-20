@@ -51,6 +51,8 @@
 | Toy Tales Review | [Code][toy-tales-review-code], [Code with Adapter][toy-tales-with-adapter] | [Video](https://youtu.be/gMQZQiYN80s) |
 | Debugging Workshop | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/25-debugging-workshop) | [Video](https://youtu.be/u3iiGVmOls8) |
 | Practice Challenge Speedrun | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/26-practice-challenge-review) | [Video](https://youtu.be/BHu3tqe7HbA) |
+| Quotes Review | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/27-quotes-practice) |  |
+| `this` and Execution Context | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/28-this-and-execution-context) | [Video](https://youtu.be/aUb2Kf-7K40) |
 
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
