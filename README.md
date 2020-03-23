@@ -54,7 +54,7 @@
 | Quotes Review | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/27-quotes-practice) |  |
 | `this` and Execution Context | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/28-this-and-execution-context) | [Video](https://youtu.be/aUb2Kf-7K40) |
 | Project Setup | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/29-project-setup) | [Video](https://youtu.be/tgNzAFNzPAA) |
-
+| Prototypal Inheritance | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/30-prototypal-inheritance) | [Video](https://youtu.be/DR6s_57ECnk) |
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
 [hashketball-video]: http://youtu.be/aI6hJ5XQo1U
