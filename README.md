@@ -57,6 +57,7 @@
 | Prototypal Inheritance | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/30-prototypal-inheritance) | [Video](https://youtu.be/DR6s_57ECnk) |
 | Practical OOJS | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/31-practical-oojs) | [Video](https://youtu.be/KKdlDFA0dJs) |
 | JS Canvas Game | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/32-canvas-game) | [Video](https://youtu.be/hNPPW9EGZYY) |
+| ES6 & Beyond | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/33-es6) | [Video](https://youtu.be/v67gNzAFDsA) |
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
 [hashketball-video]: http://youtu.be/aI6hJ5XQo1U
