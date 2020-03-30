@@ -61,16 +61,20 @@
 
 
 
-### Mod 3
+### Mod 4
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
 | React Components + Props | [Code][compr-code] | [Video 1][compr-vid1], [Video 2][compr-vid2] |
+| React State + Events | [Code][stev-code] | [Video][stev-vid1] |
 
 
 [compr-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/34-components-props
 [compr-vid1]: https://wework.zoom.com/rec/share/xf1fc-6zqTlLa4HM0XHBaJAlBqfEX6a8gCgXq_ILmUo57_jNl2vpxV9K2H5Xh4yP?startTime=1585580420000
 [compr-vid2]: https://wework.zoom.com/rec/share/xf1fc-6zqTlLa4HM0XHBaJAlBqfEX6a8gCgXq_ILmUo57_jNl2vpxV9K2H5Xh4yP?startTime=1585584059000 
 
+[stev-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/35-state-and-events
+[stev-vid1]:
+https://wework.zoom.com/rec/share/25ZNBLXr6F1IGpGW0mWEXpEbP6Dsaaa82ygY8vQEmR5QrLq0ycXmH490Kqprad0j?startTime=1585594564000
 
 
 
