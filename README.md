@@ -59,6 +59,21 @@
 | JS Canvas Game | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/32-canvas-game) | [Video](https://youtu.be/hNPPW9EGZYY) |
 | ES6 & Beyond | [Code](https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/33-es6) | [Video](https://youtu.be/v67gNzAFDsA) |
 
+
+
+### Mod 3
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
+| React Components + Props | [Code][compr-code] | [Video 1][compr-vid1], [Video 2][compr-vid2] |
+
+
+[compr-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/34-components-props
+[compr-vid1]: https://wework.zoom.com/rec/share/xf1fc-6zqTlLa4HM0XHBaJAlBqfEX6a8gCgXq_ILmUo57_jNl2vpxV9K2H5Xh4yP?startTime=1585580420000
+[compr-vid2]: https://wework.zoom.com/rec/share/xf1fc-6zqTlLa4HM0XHBaJAlBqfEX6a8gCgXq_ILmUo57_jNl2vpxV9K2H5Xh4yP?startTime=1585584059000 
+
+
+
+
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
 [hashketball-video]: http://youtu.be/aI6hJ5XQo1U
 
