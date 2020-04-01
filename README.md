@@ -67,6 +67,8 @@
 | React Components + Props | [Code][compr-code] | [Video 1][compr-vid1], [Video 2][compr-vid2] |
 | React State + Events | [Code][stev-code] | [Video][stev-vid1] |
 | Structuring a React Application | [Code][struc-code] | [Video 1][struc-vid1], [Video 2][struc-vid2] |
+| Controlling a Component + Inverse Data Flow | [Code][invdat-code] | [Video 1][inv-vid1], [Video 2][inv-vid2] |
+| React CRUD | [Code][rcrud-code] | [Video 1][rcrud-vid1], [Video 2][rcrud-vid2] |
 
 [compr-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/34-components-props
 [compr-vid1]: https://wework.zoom.com/rec/share/xf1fc-6zqTlLa4HM0XHBaJAlBqfEX6a8gCgXq_ILmUo57_jNl2vpxV9K2H5Xh4yP?startTime=1585580420000
@@ -80,6 +82,17 @@ https://wework.zoom.com/rec/share/25ZNBLXr6F1IGpGW0mWEXpEbP6Dsaaa82ygY8vQEmR5QrL
 [struc-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/36-refactoring-react
 [struc-vid1]: https://wework.zoom.com/rec/share/-c8kK5vd9WZJW7f8thjQVvQKQLu5X6a81nUWq_UMzEhREkQi4tsfzpbKHOAUgFIV?startTime=1585667946000
 [struc-vid2]: https://wework.zoom.com/rec/share/-c8kK5vd9WZJW7f8thjQVvQKQLu5X6a81nUWq_UMzEhREkQi4tsfzpbKHOAUgFIV?startTime=1585670164000
+
+
+[inv-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/37-controlled-components
+[inv-vid1]: https://wework.zoom.com/rec/share/po9_CKv633lLYq-c0E_TavF9RYbJX6a80CRIrPFZykhdSfdOld1QVEBpxzsfcMgI?startTime=1585753478000
+[inv-vid2]: https://wework.zoom.com/rec/share/po9_CKv633lLYq-c0E_TavF9RYbJX6a80CRIrPFZykhdSfdOld1QVEBpxzsfcMgI?startTime=1585756302000
+
+[rcrud-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/38-react-crud
+[rcrud-vid1]: https://wework.zoom.com/rec/share/vONnPbTu2UBISafX50CEe_MDGYTPeaa8gSUf-fYEzRprHDQDMfl2ZXGMuP5vL4ln?startTime=1585764164000
+[rcrud-vid2]: https://wework.zoom.com/rec/share/vONnPbTu2UBISafX50CEe_MDGYTPeaa8gSUf-fYEzRprHDQDMfl2ZXGMuP5vL4ln?startTime=1585767986000
+
+
 
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
