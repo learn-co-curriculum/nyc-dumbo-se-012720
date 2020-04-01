@@ -67,7 +67,7 @@
 | React Components + Props | [Code][compr-code] | [Video 1][compr-vid1], [Video 2][compr-vid2] |
 | React State + Events | [Code][stev-code] | [Video][stev-vid1] |
 | Structuring a React Application | [Code][struc-code] | [Video 1][struc-vid1], [Video 2][struc-vid2] |
-| Controlling a Component + Inverse Data Flow | [Code][invdat-code] | [Video 1][inv-vid1], [Video 2][inv-vid2] |
+| Controlling a Component + Inverse Data Flow | [Code][inv-code] | [Video 1][inv-vid1], [Video 2][inv-vid2] |
 | React CRUD | [Code][rcrud-code] | [Video 1][rcrud-vid1], [Video 2][rcrud-vid2] |
 
 [compr-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/34-components-props
