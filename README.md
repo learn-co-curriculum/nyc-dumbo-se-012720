@@ -69,6 +69,7 @@
 | Structuring a React Application | [Code][struc-code] | [Video 1][struc-vid1], [Video 2][struc-vid2] |
 | Controlling a Component + Inverse Data Flow | [Code][inv-code] | [Video 1][inv-vid1], [Video 2][inv-vid2] |
 | React CRUD | [Code][rcrud-code] | [Video 1][rcrud-vid1], [Video 2][rcrud-vid2] |
+| React Lifecycle Methods | [Code][cycle-code] | [Video 1][cycle-vid1], [Video 2][cycle-vid2] |
 
 [compr-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/34-components-props
 [compr-vid1]: https://wework.zoom.com/rec/share/xf1fc-6zqTlLa4HM0XHBaJAlBqfEX6a8gCgXq_ILmUo57_jNl2vpxV9K2H5Xh4yP?startTime=1585580420000
@@ -91,6 +92,11 @@ https://wework.zoom.com/rec/share/25ZNBLXr6F1IGpGW0mWEXpEbP6Dsaaa82ygY8vQEmR5QrL
 [rcrud-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/38-react-crud
 [rcrud-vid1]: https://wework.zoom.com/rec/share/vONnPbTu2UBISafX50CEe_MDGYTPeaa8gSUf-fYEzRprHDQDMfl2ZXGMuP5vL4ln?startTime=1585764164000
 [rcrud-vid2]: https://wework.zoom.com/rec/share/vONnPbTu2UBISafX50CEe_MDGYTPeaa8gSUf-fYEzRprHDQDMfl2ZXGMuP5vL4ln?startTime=1585767986000
+
+[cycle-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/39-react-lifecycles
+[cycle-vid1]: https://wework.zoom.com/rec/share/wehFL7D2z39JHaPxs0OCX5E-BLbueaa813Qd__pezxnceO9PICVzA27e6pcz2IkN?startTime=1585834612000
+[cycle-vid2]: https://wework.zoom.com/rec/share/wehFL7D2z39JHaPxs0OCX5E-BLbueaa813Qd__pezxnceO9PICVzA27e6pcz2IkN?startTime=1585837947000
+
 
 
 
