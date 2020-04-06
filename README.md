@@ -71,6 +71,7 @@
 | React CRUD | [Code][rcrud-code] | [Video 1][rcrud-vid1], [Video 2][rcrud-vid2] |
 | React Lifecycle Methods | [Code][cycle-code] | [Video 1][cycle-vid1], [Video 2][cycle-vid2] |
 | Hogwarts Review | [Code][hog-code] | [Video 1][hog-vid1], [Video 2][hog-vid2]
+| Mock CC Review | [Code][planet-code] | [Video 1][planet-vid1], [Video 2][planet-vid2]
 
 [compr-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/34-components-props
 [compr-vid1]: https://wework.zoom.com/rec/share/xf1fc-6zqTlLa4HM0XHBaJAlBqfEX6a8gCgXq_ILmUo57_jNl2vpxV9K2H5Xh4yP?startTime=1585580420000
@@ -101,6 +102,11 @@ https://wework.zoom.com/rec/share/25ZNBLXr6F1IGpGW0mWEXpEbP6Dsaaa82ygY8vQEmR5QrL
 [hog-code]: https://github.com/NickyEXE/hogwarts/tree/lecture
 [hog-vid1]: https://wework.zoom.com/rec/play/vZF4duqtrzI3T4fH5QSDBfd8W9S-L62shCQbqaEKzkq0ByMAMVWkYudDYrapME4HqCGhun9c0HLGy7Ee
 [hog-vid2]: https://wework.zoom.com/rec/play/vZF8f-CtrTg3ToCc4wSDBPJ6W9XsfaOshyVP-aEKmEm3AiJSY1f1N7UXYOU2BLszN5jV_BhIw8o2ngKx
+
+[planet-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/40-react-review
+[planet-vid1]: https://wework.zoom.com/rec/share/-c1Hf-_f1m1LHYWX4WjAUYoBWYPfX6a8gylPrvtbzRprpZ_3R9uEAxFBZOzshggp?startTime=1586196310000
+[planet-vid2]: https://wework.zoom.com/rec/share/-c1Hf-_f1m1LHYWX4WjAUYoBWYPfX6a8gylPrvtbzRprpZ_3R9uEAxFBZOzshggp?startTime=1586199416000
+
 
 
 
