@@ -73,6 +73,8 @@
 | Hogwarts Review | [Code][hog-code] | [Video 1][hog-vid1], [Video 2][hog-vid2]
 | Mock CC Review | [Code][planet-code] | [Video 1][planet-vid1], [Video 2][planet-vid2]
 | React Review | [Code][rrev-code] | [Video 1][rrev-vid1], [Video 2][rrev-vid2]
+| React Router | [Code][rrouter-code] | [Video 1][rrouter-vid1], [Video 2][rrouter-vid2]
+| React Auth 1 | [Code][rauth1-code] | [Video 1][rauth1-vid1], [Video 2][rauth1-vid2]
 
 [compr-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/34-components-props
 [compr-vid1]: https://wework.zoom.com/rec/share/xf1fc-6zqTlLa4HM0XHBaJAlBqfEX6a8gCgXq_ILmUo57_jNl2vpxV9K2H5Xh4yP?startTime=1585580420000
@@ -111,6 +113,14 @@ https://wework.zoom.com/rec/share/25ZNBLXr6F1IGpGW0mWEXpEbP6Dsaaa82ygY8vQEmR5QrL
 [rrev-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/41-react-review
 [rrev-vid1]: https://wework.zoom.com/rec/share/19B2Lvb23GNLEtKd5WXdBP56IYC9aaa8hiMb_foImkoRXitrWFmxJN83UpzYKTh4?startTime=1586271883000
 [rrev-vid2]: https://wework.zoom.com/rec/share/19B2Lvb23GNLEtKd5WXdBP56IYC9aaa8hiMb_foImkoRXitrWFmxJN83UpzYKTh4?startTime=1586276171000
+
+[rrouter-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/42-react-router
+[rrouter-vid1]: https://wework.zoom.com/rec/share/vf1rDKvcyWhObpXw7Hz1ao0wJonpX6a82yQbr6ZexUra6V8Ki9ydYvCB7kC5s5Hz?startTime=1586444563000
+[rrouter-vid2]: https://wework.zoom.com/rec/share/vf1rDKvcyWhObpXw7Hz1ao0wJonpX6a82yQbr6ZexUra6V8Ki9ydYvCB7kC5s5Hz?startTime=1586447696000
+
+[rauth1-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/43-react-auth
+[rauth1-vid1]: https://wework.zoom.com/rec/share/38klFLqs62ZIadaTzkLQWokaItnOeaa803QX__ALmU_15m-6LR4iOn4HonjA4bgD?startTime=1586455575000
+[rauth1-vid2]: https://wework.zoom.com/rec/share/38klFLqs62ZIadaTzkLQWokaItnOeaa803QX__ALmU_15m-6LR4iOn4HonjA4bgD?startTime=1586459370000
 
 
 
