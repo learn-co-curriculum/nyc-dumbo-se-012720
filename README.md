@@ -78,6 +78,8 @@
 | React Auth 2 | [Code][rauth2-code] | [Video 1][rauth2-vid1], [Video 2][rauth2-vid2]
 | Custom Routes | [Code][custom-code] | [Video 1][custom-vid1], [Video 2][custom-vid2]
 | React Hooks | [Code][rhooks-code] | [Video][rhooks-vid]
+| Big O/Algos | [Code][big-o-code] | [Video][big-o-vid]
+
 
 [compr-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/34-components-props
 [compr-vid1]: https://wework.zoom.com/rec/share/xf1fc-6zqTlLa4HM0XHBaJAlBqfEX6a8gCgXq_ILmUo57_jNl2vpxV9K2H5Xh4yP?startTime=1585580420000
@@ -210,6 +212,9 @@ https://wework.zoom.com/rec/share/25ZNBLXr6F1IGpGW0mWEXpEbP6Dsaaa82ygY8vQEmR5QrL
 
 [toy-tales-review-code]: https://github.com/NickyEXE/jsdom-toy-tale-dumbo-web-100719/tree/031620-lecture
 [toy-tales-with-adapter]: https://github.com/NickyEXE/jsdom-toy-tale-dumbo-web-100719/tree/test-solution-012720
+
+[big-o-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/46-big-o-lecture
+[big-o-vid]: https://wework.zoom.us/rec/share/-pxYdrDNxj9LSLPOxVHxZvJ7B9X8aaa803cXrvtfnkhXbzDfVxtHL3f3g4qqd37N
 
 
 ## Blog Schedule
