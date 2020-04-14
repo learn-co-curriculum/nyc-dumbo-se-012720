@@ -77,6 +77,7 @@
 | React Auth 1 | [Code][rauth1-code] | [Video 1][rauth1-vid1], [Video 2][rauth1-vid2]
 | React Auth 2 | [Code][rauth2-code] | [Video 1][rauth2-vid1], [Video 2][rauth2-vid2]
 | Custom Routes | [Code][custom-code] | [Video 1][custom-vid1], [Video 2][custom-vid2]
+| React Hooks | [Code][rhooks-code] | [Video][rhooks-vid1]
 
 [compr-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/34-components-props
 [compr-vid1]: https://wework.zoom.com/rec/share/xf1fc-6zqTlLa4HM0XHBaJAlBqfEX6a8gCgXq_ILmUo57_jNl2vpxV9K2H5Xh4yP?startTime=1585580420000
@@ -132,6 +133,10 @@ https://wework.zoom.com/rec/share/25ZNBLXr6F1IGpGW0mWEXpEbP6Dsaaa82ygY8vQEmR5QrL
 [custom-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/45-custom-routes
 [custom-vid1]: https://wework.zoom.com/rec/share/-chKIrPW20VOHo3hskHdc5wgGZ_5T6a813dL8_UKy0hFuzuJ0G_M52YjiXZcx4HC?startTime=1586784837000
 [custom-vid2]: https://wework.zoom.com/rec/share/-chKIrPW20VOHo3hskHdc5wgGZ_5T6a813dL8_UKy0hFuzuJ0G_M52YjiXZcx4HC?startTime=1586787687000
+
+[rhooks-code]: https://github.com/learn-co-students/react-hooks-nycoders
+[rhooks-vid]: https://wework.zoom.us/rec/share/4vVed7bZz2NIRIHCzEzmdIR7H6Pnaaa8h3VM-vANnUhdcUa_OOmD4222VcUvVCIz
+
 
 
 
