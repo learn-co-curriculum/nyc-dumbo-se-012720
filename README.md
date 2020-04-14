@@ -77,7 +77,7 @@
 | React Auth 1 | [Code][rauth1-code] | [Video 1][rauth1-vid1], [Video 2][rauth1-vid2]
 | React Auth 2 | [Code][rauth2-code] | [Video 1][rauth2-vid1], [Video 2][rauth2-vid2]
 | Custom Routes | [Code][custom-code] | [Video 1][custom-vid1], [Video 2][custom-vid2]
-| React Hooks | [Code][rhooks-code] | [Video][rhooks-vid1]
+| React Hooks | [Code][rhooks-code] | [Video][rhooks-vid]
 
 [compr-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/34-components-props
 [compr-vid1]: https://wework.zoom.com/rec/share/xf1fc-6zqTlLa4HM0XHBaJAlBqfEX6a8gCgXq_ILmUo57_jNl2vpxV9K2H5Xh4yP?startTime=1585580420000
