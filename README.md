@@ -79,7 +79,8 @@
 | Custom Routes | [Code][custom-code] | [Video 1][custom-vid1], [Video 2][custom-vid2]
 | React Hooks | [Code][rhooks-code] | [Video][rhooks-vid]
 | Big O/Algos | [Code][big-o-code] | [Video][big-o-vid]
-
+| Predux | [Code][predux-code] | [Video 1][predux-vid1], [Video 2][predux-vid2]
+| React-Redux | [Code][red-code] | [Video 1][red-vid1], [Video 2][red-vid2]
 
 [compr-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/34-components-props
 [compr-vid1]: https://wework.zoom.com/rec/share/xf1fc-6zqTlLa4HM0XHBaJAlBqfEX6a8gCgXq_ILmUo57_jNl2vpxV9K2H5Xh4yP?startTime=1585580420000
@@ -139,8 +140,13 @@ https://wework.zoom.com/rec/share/25ZNBLXr6F1IGpGW0mWEXpEbP6Dsaaa82ygY8vQEmR5QrL
 [rhooks-code]: https://github.com/learn-co-students/react-hooks-nycoders
 [rhooks-vid]: https://wework.zoom.us/rec/share/4vVed7bZz2NIRIHCzEzmdIR7H6Pnaaa8h3VM-vANnUhdcUa_OOmD4222VcUvVCIz
 
+[predux-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/47-predux
+[predux-vid1]: https://wework.zoom.com/rec/share/usYpHYrKyWhOaLPvzHCDdYwFHZzVeaa81SlI_aELn0x8aRdeuxkTlwZzrmt2o_NV?startTime=1587049397000
+[predux-vid2]: https://wework.zoom.com/rec/share/usYpHYrKyWhOaLPvzHCDdYwFHZzVeaa81SlI_aELn0x8aRdeuxkTlwZzrmt2o_NV?startTime=1587051968000
 
-
+[red-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/48-react-redux
+[red-vid1]: https://wework.zoom.com/rec/share/_PBKCJX_-1lIRYXtwXnufIpmFYL6X6a80yEdqfQOyBqORKW3m3oLLdRK_qbvZet7?startTime=1587060335000
+[red-vid2]: https://wework.zoom.com/rec/share/_PBKCJX_-1lIRYXtwXnufIpmFYL6X6a80yEdqfQOyBqORKW3m3oLLdRK_qbvZet7?startTime=1587063398000
 
 
 
