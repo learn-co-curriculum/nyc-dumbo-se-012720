@@ -82,6 +82,7 @@
 | Predux | [Code][predux-code] | [Video 1][predux-vid1], [Video 2][predux-vid2]
 | React-Redux | [Code][red-code] | [Video 1][red-vid1], [Video 2][red-vid2]
 | Fetch with Redux | [Code][fred-code] | [Video][fred-vid]
+| Redux Auth (Thunk) | [Code][thunk-code] | [Video][thunk-vid]
 
 [compr-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/34-components-props
 [compr-vid1]: https://wework.zoom.com/rec/share/xf1fc-6zqTlLa4HM0XHBaJAlBqfEX6a8gCgXq_ILmUo57_jNl2vpxV9K2H5Xh4yP?startTime=1585580420000
@@ -151,6 +152,11 @@ https://wework.zoom.com/rec/share/25ZNBLXr6F1IGpGW0mWEXpEbP6Dsaaa82ygY8vQEmR5QrL
 
 [fred-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/49-combining-it-all
 [fred-vid]: https://wework.zoom.com/rec/share/tO1SDIDO-XlJQZXS2QaAAIpwFdzJT6a8hncf_PYEyEgy0GA3-RxRyjiwEMRrwKgV?startTime=1587138654000
+
+[thunk-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/50-redux-fetch
+[thunk-vid]: https://wework.zoom.com/rec/share/6dZxEbrOx1JLRKfOsBrScPMaMabbT6a80HMXr6ENyM76Y8Jf9KPdpGa6Q85Y_yw?startTime=1587412237000
+
+
 
 
 [hashketball-code]: https://github.com/learn-co-students/nyc-dumbo-se-012720/tree/master/01-hashketball
